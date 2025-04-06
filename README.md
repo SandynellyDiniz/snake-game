@@ -1,5 +1,8 @@
-<h2>Snake Game 🐍</h2> 
+<h2 align="center"> Snake Game 🐍
 
+<br> ![Image](https://github.com/user-attachments/assets/9e2cf623-fbef-4580-a9d5-338a565d7103)
+
+</h2> 
 <h3>Technologies used: 🔧</h3> 
 <ul>
   <img align="center" alt="SD-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
