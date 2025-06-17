@@ -1,5 +1,5 @@
 <h2 align="center"> Snake Game 🐍
-
+  
 <br> ![Image](https://github.com/user-attachments/assets/9e2cf623-fbef-4580-a9d5-338a565d7103)
 
 </h2> 
