@@ -1,6 +1,6 @@
 <h2 align="center"> Snake Game 🐍🕹️
 
-<br>  ![Image](https://github.com/user-attachments/assets/931435db-e91b-46a3-bd59-ad82e4cfac10)
+ <br>  ![Image](https://github.com/user-attachments/assets/931435db-e91b-46a3-bd59-ad82e4cfac10)
  
 
 </h2> 
